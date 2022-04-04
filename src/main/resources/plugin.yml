@@ -1,0 +1,9 @@
+name: Bombs
+version: '${project.version}'
+main: xyz.snowey.bombs.Bombs
+api-version: 1.18
+authors: [ Snowey ]
+depend: [ Vault ]
+commands:
+  bombs:
+    description: BOMBS

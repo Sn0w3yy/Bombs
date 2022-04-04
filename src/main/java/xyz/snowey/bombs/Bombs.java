@@ -7,7 +7,6 @@ import org.bukkit.plugin.java.JavaPlugin;
 import xyz.snowey.bombs.commands.BombsCommand;
 import xyz.snowey.bombs.events.GUIClick;
 import xyz.snowey.bombs.events.GUIClose;
-import xyz.snowey.bombs.util.Eco;
 import xyz.snowey.bombs.util.GUI;
 import xyz.snowey.bombs.util.Msg;
 
